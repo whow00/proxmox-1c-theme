@@ -7,7 +7,7 @@
 ```bash
 systemctl restart pveproxy
 ```
-3. Если тема не применяется, попробуйте во вкладке с Proxmox нажать **Ctrl + F5**, или переустановите pve-manager: ```bash sudo apt install --reinstall pve-manager```
+3. Если тема не применяется, попробуйте во вкладке с Proxmox нажать **Ctrl + F5**, или переустановите pve-manager: ```sudo apt install --reinstall pve-manager```
 
 ## Скриншоты
 ![1С жесть](screen/screenshot.png)
